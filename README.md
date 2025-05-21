@@ -12,7 +12,7 @@
 - 🛠️ Tech Stack: Python, java, SQL, PL/SQL, PySpark, Shell Scripting  
 - 📊 Data Viz: Power BI, Tableau, AWS QuickSight, Looker, Apache Superset  
 - ☁️ Cloud Platforms: AWS, GCP, Azure DevOps  
-- 🛠️ Tools: Apache Airflow, Kafka, Informatica, Control-M, GitHub, JIRA  
+- 🛠️ Tools: Apache Airflow, Kafka, GitHub, JIRA  
 - 🤖 ML & DL: Regression, Classification, Clustering, CNN, NLP  
 
 ---
