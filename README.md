@@ -8,11 +8,11 @@
 ## 🧠 About Me
 
 - 👩‍🎓 Master’s in Computer Science @ SEMO  
-- 👩‍💻 Data Engineer | Data Scientist | ML Engineer  
-- 🛠️ Tech Stack: Python, java, SQL, PL/SQL, PySpark, Shell Scripting  
-- 📊 Data Viz: Power BI, Tableau, AWS QuickSight,Apache Superset  
-- ☁️ Cloud Platforms: AWS, GCP, Azure DevOps  
-- 🛠️ Tools: Apache Airflow, Kafka, GitHub  
+- 👩‍💻 Data Engineer | Data Analyst 
+- 🛠️ Tech Stack: Python, java, SQL, PL/SQL, PySpark
+- 📊 Data VVisualization Tools and Packages: Tableau, Seaborn, Plotly, Mathplotlib 
+- ☁️ Cloud Platforms: AWS, Azure 
+- 🛠️ Tools: Apache Airflow, spark, GitHub  
 - 🤖 ML & DL: Regression, Classification, Clustering, CNN, NLP  
 
 ---
