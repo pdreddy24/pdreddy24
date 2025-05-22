@@ -21,8 +21,7 @@
 
 - 🔍 **Defective Fruit Detection using ML & Image Processing** – Built with OpenCV, SVM, KNN  
 - 🧠 **Handwritten Digit Classification** – CNN model with TensorFlow on MNIST  
-- 🔒 **Secure Watermarking using Cryptography** – Developed using Python, HTML, CSS, MySQL  
-- 📰 **Fake News Detection with NLP** – Classification using Python, Scikit-learn  
+- 📰 **MAZE PATHFINDING WITH DEPTH-FIRST SEARCH** -Python,Recursive Algorithm Implementation,Python Programming,Data Structures (Stacks, Queues, Priority Queues)
 
 ---
 
