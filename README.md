@@ -1,37 +1,21 @@
 <h1 align="center">Helloooo I'M DEEKSHITHA REDDY </h1>
 <h3 align="center">Master's in Computer Science at Southeast Missouri State University (SEMO)</h3>
 
-<p align="center">I'm a passionate tech enthusiast focused on <strong>Data Engineering</strong>, <strong>Machine Learning</strong>, and <strong>Cloud Computing</strong>. I love turning data into meaningful insights and building scalable, secure solutions.</p>
+<p align="center">I'm a passionate tech enthusiast now focusing on AI-driven technologies. I'm eager to apply my skills to build intelligent, data-powered solutions and contribute to innovative projects that leverage the power of AI.</p>
 
 ---
 
 ## 🧠 About Me
 
-- 👩‍🎓 Master’s in Computer Science @ SEMO  
-- 👩‍💻 AI Engineer|ML Engineer|Data Engineer|Data Analyst 
-- 🛠️ Tech Stack: Python, java, SQL, PL/SQL, PySpark
-- 📊 Data VVisualization Tools and Packages: Tableau, Seaborn, Plotly, Mathplotlib 
+- 📚I share my day-to-day study progress, learnings, and project updates here to track my journey and growth.
+- 👩‍🎓 CS Student  
+- 🛠️ Tech Stack: Python, SQL, PL/SQL, PySpark
+- 📊 Data Visualization Tools and Packages: Tableau, Seaborn, Plotly, Mathplotlib 
 - ☁️ Cloud Platforms: AWS, Azure 
 - 🛠️ Tools: Apache Airflow, spark, GitHub  
 - 🤖 ML & DL: Regression, Classification, Clustering, CNN, NLP  
+- AI Models: LLaMA 2, GPT (OpenAI), BERT, T5, Stable Diffusion, YOLO, ResNet, VGG, SVM, KNN, Random Forest
 
----
-
-## 🚀 Projects
-
-- 🔍 **Defective Fruit Detection using ML & Image Processing** – Built with OpenCV, SVM, KNN  
-- 🧠 **Handwritten Digit Classification** – CNN model with TensorFlow on MNIST  
-- 📰 **MAZE PATHFINDING WITH DEPTH-FIRST SEARCH** -Python,Recursive Algorithm Implementation,Python Programming,Data Structures (Stacks, Queues, Priority Queues)
-
----
-
-## 🌱 Currently Learning
-
-- 🚀 Advanced Data Engineering with Apache Spark & Kafka  
-- ⚙️ Data Pipeline Orchestration using Apache Airflow  
-- ☁️ ML Ops & Cloud DevOps Concepts  
-
----
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
