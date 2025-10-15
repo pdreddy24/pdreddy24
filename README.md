@@ -1,5 +1,5 @@
-<h1 align="center">Helloooo I'M DEEKSHITHA REDDY </h1>
-<h3 align="center">Master's in Computer Science at Southeast Missouri State University (SEMO)</h3>
+<h1 align="center">Helloooo </h1>
+<h3 align="center"> I'M DEEKSHITHA REDDY</h3>
 
 <p align="center">I'm a passionate tech enthusiast now focusing on AI-driven technologies. I'm eager to apply my skills to build intelligent, data-powered solutions and contribute to innovative projects that leverage the power of AI.</p>
 
