@@ -1,4 +1,4 @@
-<h1 align="center">Helloooo I'M DEEKSHITHA REDDY PALVAI</h1>
+<h1 align="center">Helloooo I'M DEEKSHITHA REDDY </h1>
 <h3 align="center">Master's in Computer Science at Southeast Missouri State University (SEMO)</h3>
 
 <p align="center">I'm a passionate tech enthusiast focused on <strong>Data Engineering</strong>, <strong>Machine Learning</strong>, and <strong>Cloud Computing</strong>. I love turning data into meaningful insights and building scalable, secure solutions.</p>
