@@ -8,7 +8,7 @@
 ## 🧠 About Me
 
 - 👩‍🎓 Master’s in Computer Science @ SEMO  
-- 👩‍💻 Data Engineer | Data Analyst 
+- 👩‍💻 AI Engineer|ML Engineer|Data Engineer|Data Analyst 
 - 🛠️ Tech Stack: Python, java, SQL, PL/SQL, PySpark
 - 📊 Data VVisualization Tools and Packages: Tableau, Seaborn, Plotly, Mathplotlib 
 - ☁️ Cloud Platforms: AWS, Azure 
