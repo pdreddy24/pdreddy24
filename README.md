@@ -9,38 +9,13 @@
 
 - 📚I share my day-to-day study progress, learnings, and project updates here to track my journey and growth.
 - 📰**CERTIFICATIONS:** - **_AI Foundations & Generative AI Professional, Microsoft Azure Fundamentals, Microsoft Azure AI Engineer Associate_**
-- **Core Programming:**
-  - **Languages:** Python , SQL  
-  - **Concepts:** Data Structures & Algorithms, OOP, REST APIs (FastAPI)  
-  - **Version Control:** Git, GitHub
-- **Data Processing & Engineering**
-  - **Data Wrangling:** Pandas, NumPy  
-  - **ETL & Pipelines:** Apache Airflow, PySpark
-  - **Databases:** PostgreSQL, MySQL  
-  - **Formats:** CSV, JSON, Parquet
-- **Machine Learning**
-  - **Libraries:** Scikit-learn, XGBoost, LightGBM  
-  - **Skills:**  
-    - Regression & Classification  
-    - Clustering  
-    - Feature Engineering & Data Preprocessing  
-    - Model Evaluation & Tuning
-- **Deep Learning & NLP**
-  - **Frameworks:** TensorFlow 
-  - **Architectures:** CNN, RNN/LSTM, Transformers (BERT, T5, GPT - exploratory)  
-  - **NLP Tools:** Hugging Face, spaCy, NLTK
-- **MLOps & Deployment**
-  - **Model Serving:** FastAPI, Flask  
-  - **Experiment Tracking:** MLflow  
-  - **Containerization:** Docker
-  - **Cloud:** AWS S3, SageMaker
-- **Data Visualization**
-  - **Libraries & Tools:** Tableau, Matplotlib, Seaborn, Plotly  
-  - **Dashboards:** Streamlit
-- **LLMs & Generative AI**
-  - **Frameworks:** LangChain, Hugging Face, OpenAI APIs  
-  - **Techniques:** Prompt Engineering, RAG Pipelines (beginner)  
-  - **Vector DBs:** FAISS
+-  💻**Core Programming & Data Engineering:** Proficient in Python and SQL, with strong foundations in Data Structures & Algorithms, OOP, and REST APIs (FastAPI). Skilled in data wrangling (Pandas, NumPy), ETL pipelines (Airflow, PySpark), and working with databases (PostgreSQL, MySQL) and formats like CSV, JSON, Parquet.
+
+- 🤖**Machine Learning & NLP:** Experienced with Scikit-learn, XGBoost, and LightGBM for regression, classification, clustering, and model tuning. Exposure to Deep Learning using TensorFlow, including CNNs, RNNs, and Transformers (BERT, T5, GPT). Familiar with NLP tools like Hugging Face, spaCy, and NLTK.
+
+- ⚙️**MLOps & Deployment:** Hands-on with model serving (FastAPI, Flask), MLflow for experiment tracking, and Docker for containerization. Basic experience with AWS S3 and SageMaker for cloud deployment and management.
+
+- 📊 **Visualization & Generative AI:** Skilled in Tableau, Matplotlib, Seaborn, and Plotly for creating data dashboards (Streamlit). Exploring LLMs & Generative AI using LangChain, Hugging Face, OpenAI APIs, with foundational knowledge of Prompt Engineering, RAG Pipelines, and vector databases (FAISS).
 
 
 <h3 align="left">Connect with me:</h3>
