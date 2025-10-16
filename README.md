@@ -8,13 +8,39 @@
 ## 🧠 About Me
 
 - 📚I share my day-to-day study progress, learnings, and project updates here to track my journey and growth.
-- 👩‍🎓 CS Student  
-- 🛠️ Tech Stack: Python, SQL, PL/SQL, PySpark
-- 📊 Data Visualization Tools and Packages: Tableau, Seaborn, Plotly, Mathplotlib 
-- ☁️ Cloud Platforms: AWS, Azure 
-- 🛠️ Tools: Apache Airflow, spark, GitHub  
-- 🤖 ML & DL: Regression, Classification, Clustering, CNN, NLP  
-- AI Models: LLaMA 2, GPT (OpenAI), BERT, T5, Stable Diffusion, YOLO, ResNet, VGG, SVM, KNN, Random Forest
+- 📰**CERTIFICATIONS:** - **_AI Foundations & Generative AI Professional, Microsoft Azure Fundamentals, Microsoft Azure AI Engineer Associate_**
+- **Core Programming:**
+  - **Languages:** Python , SQL  
+  - **Concepts:** Data Structures & Algorithms, OOP, REST APIs (FastAPI)  
+  - **Version Control:** Git, GitHub
+- **Data Processing & Engineering**
+  - **Data Wrangling:** Pandas, NumPy  
+  - **ETL & Pipelines:** Apache Airflow, PySpark
+  - **Databases:** PostgreSQL, MySQL  
+  - **Formats:** CSV, JSON, Parquet
+- **Machine Learning**
+  - **Libraries:** Scikit-learn, XGBoost, LightGBM  
+  - **Skills:**  
+    - Regression & Classification  
+    - Clustering  
+    - Feature Engineering & Data Preprocessing  
+    - Model Evaluation & Tuning
+- **Deep Learning & NLP**
+  - **Frameworks:** TensorFlow 
+  - **Architectures:** CNN, RNN/LSTM, Transformers (BERT, T5, GPT - exploratory)  
+  - **NLP Tools:** Hugging Face, spaCy, NLTK
+- **MLOps & Deployment**
+  - **Model Serving:** FastAPI, Flask  
+  - **Experiment Tracking:** MLflow  
+  - **Containerization:** Docker
+  - **Cloud:** AWS S3, SageMaker
+- **Data Visualization**
+  - **Libraries & Tools:** Tableau, Matplotlib, Seaborn, Plotly  
+  - **Dashboards:** Streamlit
+- **LLMs & Generative AI**
+  - **Frameworks:** LangChain, Hugging Face, OpenAI APIs  
+  - **Techniques:** Prompt Engineering, RAG Pipelines (beginner)  
+  - **Vector DBs:** FAISS
 
 
 <h3 align="left">Connect with me:</h3>
