@@ -9,7 +9,7 @@
 - **Certifications: OCI – AI Foundations & Generative AI Professional, Microsoft Azure Fundamentals, Microsoft Azure AI Engineer Associate**
 -  💻**Core Programming & Data Engineering:** Proficient in Python and SQL, with strong foundations in Data Structures & Algorithms, OOP, and REST APIs (FastAPI). Skilled in data wrangling (Pandas, NumPy), ETL pipelines (Airflow, PySpark), and working with databases (PostgreSQL, MySQL) and formats like CSV, JSON, Parquet.
 
-- 🤖**Machine Learning & NLP:** Experienced with Scikit-learn, XGBoost, and LightGBM for regression, classification, clustering, and model tuning. Exposure to Deep Learning using TensorFlow, including CNNs, RNNs, and Transformers (BERT, T5, GPT). Familiar with NLP tools like Hugging Face, spaCy, and NLTK.
+- 🤖**Machine Learning & NLP:** Experienced with Scikit-learn, XGBoost, and LightGBM for regression, classification, clustering, and model tuning. Exposure to Deep Learning using TensorFlow, including CNNs, RNNs, and Transformers (BERT, T5, GPT). Familiar with NLP tools like Hugging Face.
 
 - ⚙️**MLOps & Deployment:** Hands-on with model serving (FastAPI, Flask), MLflow for experiment tracking, and Docker for containerization. Basic experience with AWS S3 and SageMaker for cloud deployment and management.
 
