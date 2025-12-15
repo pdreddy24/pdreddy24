@@ -1,19 +1,40 @@
 <h1 align="center">Helloooo </h1>
 <h3 align="center"> I'M DEEKSHITHA REDDY</h3>
 
-<p align="center">I'm a passionate tech enthusiast now focusing on AI-driven technologies. I'm eager to apply my skills to build intelligent, data-powered solutions and contribute to innovative projects that leverage the power of AI.</p>
+<p align="center">I’m an **AI Engineer** focused on building **production-ready ML + GenAI systems** — turning messy data into reliable models, APIs, and user-facing applications.</p>
 
 ---
 
-## 🧠 About Me
-- **Certifications: OCI – AI Foundations & Generative AI Professional, Microsoft Azure Fundamentals, Microsoft Azure AI Engineer Associate**
--  💻**Core Programming & Data Engineering:** Proficient in Python and SQL, with strong foundations in Data Structures & Algorithms, OOP, and REST APIs (FastAPI). Skilled in data wrangling (Pandas, NumPy), ETL pipelines (Airflow, PySpark), and working with databases (PostgreSQL, MySQL) and formats like CSV, JSON, Parquet.
+## 🧠 About Me 
+### 🎓 Certifications
+- **OCI:** AI Foundations, Generative AI Professional
+- **Microsoft:** Azure Fundamentals (AZ-900), Azure AI Engineer Associate (AI-102)
 
-- 🤖**Machine Learning & NLP:** Experienced with Scikit-learn, XGBoost, and LightGBM for regression, classification, clustering, and model tuning. Exposure to Deep Learning using TensorFlow, including CNNs, RNNs, and Transformers (BERT, T5, GPT). Familiar with NLP tools like Hugging Face.
+### 🧩 AI Engineering Core
+- **Languages:** Python, SQL  
+- **CS Foundations:** Data Structures & Algorithms, OOP  
+- **Backend/APIs:** FastAPI (REST), Flask  
+- **Data Layer:** Pandas, NumPy | Airflow, PySpark , Kafka 
+- **Databases & Storage:** SQL,NO-SQL 
+### 🤖 LLMs & Generative AI
+- **Frameworks/APIs:** LangChain,Langgraph, OpenAI APIs, Hugging Face  
+- **Capabilities:** prompt design, structured outputs, tool/function calling  
+- **RAG:** chunking, embeddings, retrieval design, FAISS vector search  
+- **Transformer Familiarity:** BERT, T5, GPT  
 
-- ⚙️**MLOps & Deployment:** Hands-on with model serving (FastAPI, Flask), MLflow for experiment tracking, and Docker for containerization. Basic experience with AWS S3 and SageMaker for cloud deployment and management.
+### 📈 ML / DL 
+- **ML:** Scikit-learn, XGBoost, LightGBM (training, tuning, evaluation)  
+- **DL Exposure:** TensorFlow (CNNs, RNNs)
 
-- 📊 **Visualization & Generative AI:** Skilled in Tableau, Matplotlib, Seaborn, and Plotly for creating data dashboards (Streamlit). Exploring LLMs & Generative AI using LangChain, Hugging Face, OpenAI APIs, with foundational knowledge of Prompt Engineering, RAG Pipelines, and vector databases (FAISS).
+### ⚙️ MLOps & Deployment
+- **Experiment Tracking:** MLflow  
+- **Packaging:** Docker, reproducible environments  
+- **Cloud Exposure:** AWS S3, SageMaker  
+- **Serving Patterns:** model/LLM endpoints, streaming responses, basic monitoring concepts  
+
+### 🎛️ Product & Visualization
+- **Apps:** Streamlit for AI demos and internal tools  
+- **Visualization:** Plotly, Matplotlib, Seaborn; Tableau dashboards  
 
 
 <h3 align="left">Connect with me:</h3>
