@@ -1,7 +1,7 @@
 <h1 align="center">Helloooo </h1>
 <h3 align="center"> I'M DEEKSHITHA REDDY</h3>
 
-<p align="center">I’m an **AI Engineer** focused on building **production-ready ML + GenAI systems** — turning messy data into reliable models, APIs, and user-facing applications.</p>
+<p align="center">I’m an AI Engineer focused on building production-ready ML + GenAI systems — turning messy data into reliable models, APIs, and user-facing applications.</p>
 
 ---
 
