@@ -21,7 +21,7 @@ Data Engineer & AI Engineer | Building production-ready ML, GenAI, and scalable 
 - SQL  
 - Shell Scripting (Bash)  
 
-### **Frameworks / Libraries / Tools**
+### **Frameworks,Libraries &Tools**
 - **Data Engineering:** Pandas, NumPy, PySpark, Apache Airflow, Kafka  
 - **Backend / APIs:** FastAPI, Flask  
 - **AI / ML / Generative AI:** Scikit-learn, XGBoost, LightGBM, TensorFlow (CNNs, RNNs), LangChain, LangGraph, Hugging Face, OpenAI APIs  
@@ -41,7 +41,7 @@ Data Engineer & AI Engineer | Building production-ready ML, GenAI, and scalable 
 - **Relational (SQL):** PostgreSQL, MySQL, Snowflake, Redshift  
 - **NoSQL:** MongoDB, Cassandra  
 - **Graph Databases:** Neo4j, Amazon Neptune  
-- **Data Lakes / Warehouses:** S3, ADLS, Snowflake, Redshift, Synapse  
+- **Data Lakes and Warehouses:** S3, ADLS, Snowflake, Redshift, Synapse  
 
 ### **AI Engineering Capabilities**
 - Prompt design & structured outputs  
@@ -58,7 +58,7 @@ Data Engineer & AI Engineer | Building production-ready ML, GenAI, and scalable 
   <a href="https://www.linkedin.com/in/palvaireddy" target="_blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="palvaireddy" height="30" width="40" />
   </a>
-  <a href="https://medium.com/@deekshithapalvai" target="_blank">
+  <a href="[https://medium.com/@deekshithapalvai](https://medium.com/@deekshithapalvai)" target="_blank">
     <img align="center" src="https://cdn-icons-png.flaticon.com/512/5968/5968885.png" alt="medium" height="30" width="40" />
   </a>
 </p>
