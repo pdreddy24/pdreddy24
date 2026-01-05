@@ -2,7 +2,7 @@
 <h3 align="center">I'M DEEKSHITHA REDDY</h3>
 
 <p align="center">
-Data Engineer & AI Engineer | Building production-ready ML, GenAI, and scalable data pipelines for real-world applications
+Data Engineer | Specializing in building scalable, production-ready data pipelines, robust data warehouses, and ML and GenAI applications
 </p>
 
 ---
@@ -10,41 +10,35 @@ Data Engineer & AI Engineer | Building production-ready ML, GenAI, and scalable 
 ## 🧠 About Me
 ### 🎓 Certifications
 - **OCI:** AI Foundations, Generative AI Professional  
-- **Microsoft:** Azure Fundamentals (AZ-900), Azure AI Engineer Associate (AI-102)  
+- **Microsoft:** Azure Fundamentals AZ-900, Azure AI Engineer Associate AI-102  
 
 ---
 
-## 💻 Data Engineering & AI Engineering Skills
+## 💻 Skills
 
 ### **Languages**
-- Python  
-- SQL  
-- Shell Scripting (Bash)  
+- Python, SQL, Shell Scripting (Bash)  
 
-### **Frameworks,Libraries &Tools**
-- **Data Engineering:** Pandas, NumPy, PySpark, Apache Airflow, Kafka  
-- **Backend / APIs:** FastAPI, Flask  
-- **AI / ML / Generative AI:** Scikit-learn, XGBoost, LightGBM, TensorFlow (CNNs, RNNs), LangChain, LangGraph, Hugging Face, OpenAI APIs  
-- **Visualization:** Matplotlib, Seaborn, Plotly, Tableau  
+### **Frameworks and Libraries**
+- Apache Spark, PySpark, Spark SQL, Apache Airflow, Pandas, NumPy, FastAPI, Matplotlib, Plotly  
 
-### **DevOps / MLOps Tools**
-- Docker  
-- MLflow (experiment tracking)  
-- Reproducible environments / packaging  
-- Model & LLM endpoint deployment, streaming responses, basic monitoring  
+### **DevOps and Tools**
+- Docker, Kubernetes, Git, GitHub Actions, Grafana, CI/CD Pipelines  
 
 ### **Cloud Platforms**
-- **AWS:** S3, SageMaker  
-- **Azure:** ADLS, Synapse, Data Factory  
+- **AWS:** S3, EMR, Glue, Redshift, Lambda, CloudWatch  
+- **Azure:** ADLS, Synapse Analytics, Data Factory  
 
-### **Databases & Storage**
-- **Relational (SQL):** PostgreSQL, MySQL, Snowflake, Redshift  
-- **NoSQL:** MongoDB, Cassandra  
-- **Graph Databases:** Neo4j, Amazon Neptune  
-- **Data Lakes and Warehouses:** S3, ADLS, Snowflake, Redshift, Synapse  
+### **Databases and Storage**
+- PostgreSQL, MySQL, MongoDB, Cassandra, Snowflake, Amazon Redshift, Azure Synapse, Neo4j, Amazon Neptune, Data Lakes (S3, ADLS)  
 
-### **AI Engineering Capabilities**
-- Prompt design & structured outputs  
+### **Analytics and BI**
+- Power BI  
+
+### **AI ML and Generative AI**
+- Scikit-learn, XGBoost, LightGBM, TensorFlow CNNs, RNNs  
+- LangChain, LangGraph, Hugging Face, OpenAI APIs  
+- Prompt design and structured outputs  
 - RAG pipelines: chunking, embeddings, retrieval design, FAISS vector search  
 - Transformer familiarity: BERT, T5, GPT  
 
@@ -58,7 +52,7 @@ Data Engineer & AI Engineer | Building production-ready ML, GenAI, and scalable 
   <a href="https://www.linkedin.com/in/palvaireddy" target="_blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="palvaireddy" height="30" width="40" />
   </a>
-  <a href="[https://medium.com/@deekshithapalvai](https://medium.com/@deekshithapalvai)" target="_blank">
+  <a href="https://medium.com/@deekshithapalvai" target="_blank">
     <img align="center" src="https://cdn-icons-png.flaticon.com/512/5968/5968885.png" alt="medium" height="30" width="40" />
   </a>
 </p>
